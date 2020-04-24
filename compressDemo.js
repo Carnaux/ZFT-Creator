@@ -5,7 +5,7 @@ var Module = require('./build/genZip_wasm.js');
 
 Module.onRuntimeInitialized = function(){
     console.log("---------------------INITIATING COMPRESSION--------------------------");
-    let inDir = path.join(__dirname, './inputMarker');
+    let inDir = path.join(__dirname, './inputMarker/');
     let iset = fs.readFileSync(inDir + "pinball.iset");
     let fset = fs.readFileSync(inDir + "pinball.fset");
     let fset3 = fs.readFileSync(inDir + "pinball.fset3");
