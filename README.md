@@ -1,5 +1,6 @@
 # THIS IS A TESTING REPO, THE REAL SOFTWARE WILL BE IMPLEMENTED IN ARTOOLKIT!
 
+This repo is ready to use, it already has a testing marker and the wasm compiled.
 ## How to use with node
 
 #### - Put the marker in the 'inputMarker' folder.
