@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "zip.h": "c",
+        "string.h": "c"
+    }
+}

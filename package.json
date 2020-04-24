@@ -1,0 +1,18 @@
+{
+    "name": "zipoperations",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "node tools/makem.js",
+        "comp": "node compressDemo.js",
+        "decomp": "node decompressDemo.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
