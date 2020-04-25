@@ -1,1 +1,3 @@
-demo/*
+demo/.vscode/*
+output/*
+.vscode/*
