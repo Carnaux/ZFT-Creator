@@ -17,4 +17,10 @@ This will decompress the markers to the output folder.
 
 You will need to setup the Emscripten environment first!!!
 
-### Soon the browser version will be available
+## How to use with browser
+
+1- Open index.html in a local server
+
+2- drop files where indicated.
+
+PS: .zft and .iset/fset/fset3 will be downloaded automatically.
